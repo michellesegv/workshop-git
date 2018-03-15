@@ -2,4 +2,4 @@
 
 este work shop blabalanknsbsjbs
 
-ruth salvador 
+Ruth Salvador y Michelle Seguil
