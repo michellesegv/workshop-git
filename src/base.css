@@ -1,0 +1,30 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header, footer {
+  background-color: #324249;
+  color: #ffffff;
+}
+
+ul, li, a {
+  color: inherit;
+}
+
+a:hover {
+  color: #13be8e;
+  text-decoration: none;
+}
+
+.home {
+  background-color: #13be8e;
+  color: #ffffff;
+}
+
+.pd {
+  padding: 30px;
+}
+
+.star {
+  font-size: 50px;
+}
