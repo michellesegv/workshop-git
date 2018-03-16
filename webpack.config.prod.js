@@ -30,7 +30,7 @@ module.exports = {
       },
       {
         test: /\.css$/, // todos los archivos `css`
-        exclude: /node_modules/,
+        /*exclude: /node_modules/, // en este caso si deseo los modulos pq estoy usando bootstrap*/
         use: [
           { loader: 'style-loader' }, // primero creamos un tag `style`
           { loader: 'css-loader' } // y le injetamos el `css`
