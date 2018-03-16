@@ -1,4 +1,5 @@
-import 'bootstrap';
+import 'bootstrap'
+import 'bootstrap/dist/css/bootstrap.min.css'
 import './base.css'
 import React from 'react'
 import { render } from 'react-dom'
